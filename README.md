@@ -1,2 +1,2 @@
-# IHASwim@github.io
+# ihaswim.github.io
 Indian Hydrophilic Academy
